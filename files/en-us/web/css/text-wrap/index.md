@@ -12,8 +12,6 @@ The **`text-wrap`** CSS shorthand property controls how text inside an element i
 - Typographic improvements, for example more balanced line lengths across broken headings
 - A way to turn text wrapping off completely.
 
-> **Note:** The {{CSSxRef("white-space-collapse")}} and `text-wrap` properties can be declared together using the {{CSSxRef("white-space")}} shorthand property.
-
 {{EmbedInteractiveExample("pages/css/text-wrap.html")}}
 
 ## Constituent properties
@@ -136,5 +134,5 @@ The text in the example is editable. Change the text, adding long words, to view
 - {{CSSxRef("white-space")}}
 - {{CSSxRef("white-space-collapse")}}
 - [CSS text module](/en-US/docs/Web/CSS/CSS_text)
-- [CSS `text-wrap: balance`](https://developer.chrome.com/blog/css-text-wrap-balance/) on developer.chrome.com
+- [CSS `text-wrap: balance`](https://developer.chrome.com/docs/css-ui/css-text-wrap-balance) on developer.chrome.com
 - [CSS `text-wrap: pretty`](https://developer.chrome.com/blog/css-text-wrap-pretty/) on developer.chrome.com
