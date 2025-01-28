@@ -32,12 +32,16 @@ The values of CSS are represented untyped, that is using {{JSxRef("String")}} ob
 - {{DOMxRef("CSSMediaRule")}}
 - {{DOMxRef("CSSNamespaceRule")}}
 - {{DOMxRef("CSSPageRule")}}
+- {{DOMxRef("CSSPositionTryRule")}}
+- {{DOMxRef("CSSPositionTryDescriptors")}}
 - {{DOMxRef("CSSRule")}}
 - {{DOMxRef("CSSRuleList")}}
+- {{DOMxRef("CSSStartingStyleRule")}}
 - {{DOMxRef("CSSStyleDeclaration")}}
 - {{DOMxRef("CSSStyleSheet")}}
 - {{DOMxRef("CSSStyleRule")}}
 - {{DOMxRef("CSSSupportsRule")}}
+- {{DOMXRef("CSSNestedDeclarations")}}
 - {{DOMxRef("FontFace")}}
 - {{DOMxRef("FontFaceSet")}}
 - {{DOMxRef("FontFaceSetLoadEvent")}}
@@ -48,6 +52,7 @@ The values of CSS are represented untyped, that is using {{JSxRef("String")}} ob
 - {{DOMxRef("StyleSheet")}}
 - {{DOMxRef("StyleSheetList")}}
 - {{DOMxRef("TransitionEvent")}}
+- {{DOMxRef("VisualViewport")}}
 
 Several other interfaces are also extended by the CSSOM-related specifications: {{DOMxRef("Document")}}, {{DOMxRef("Window")}}, {{DOMxRef("Element")}}, {{DOMxRef("HTMLElement")}}, {{DOMxRef("HTMLImageElement")}}, {{DOMxRef("Range")}}, {{DOMxRef("MouseEvent")}}, and {{DOMxRef("SVGElement")}}.
 
